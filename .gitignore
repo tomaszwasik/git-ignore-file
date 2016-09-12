@@ -1,5 +1,6 @@
 
-# Created by https://www.gitignore.io/api/linux,windows,osx,intellij,eclipse,java,git,svn,jetbrains,maven,gradle,jboss,netbeans
+# Created by https://www.gitignore.io
+# linux, windows,osx, intellij, eclipse, java, git, svn, jetbrains, maven, gradle,jboss, netbeans
 
 ### Git ###
 *.orig
